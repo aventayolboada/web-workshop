@@ -1,6 +1,8 @@
 # Building website with GitHub
 
 ## Description
-This is some text about something that will something. Hopefully it will work!
+{{ site.description }}
 
 [About this website](about.md)
+
+Have any questions? [Please contact me via email](email:{{ site.email}})
