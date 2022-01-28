@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "My homepage"
 author: "Albert Ventayol"
 ---
