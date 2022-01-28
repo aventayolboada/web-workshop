@@ -3,6 +3,8 @@ title: "My homepage"
 author: "Albert Ventayol"
 ---
 
+{% include navigation.html %}
+
 # Building website with GitHub
 
 ## Description
