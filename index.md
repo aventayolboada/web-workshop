@@ -15,3 +15,5 @@ This page was rendered at {{ site.time }}.
 Author: {{ page.author }}
 
 Have any questions? [Please contact me via email](mailto:{{ site.email }})
+
+{% include footer.html %}
