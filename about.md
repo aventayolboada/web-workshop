@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # About this site
 This is my about page for my website
 
@@ -21,4 +19,3 @@ You can cite the project as:
 
 [go home](index.md)
 
-{% include footer.html %}
