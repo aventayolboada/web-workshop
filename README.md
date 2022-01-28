@@ -19,3 +19,14 @@ are caused by two trailing spaces at the end of a line.
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+## Another second level heading
+Let me tell you a little bit about my ~~day~~ [research](https://www.linguistics.ucsb.edu/people/albert-ventayol-boada)
+
+### This is a third level heading
+I guess I'm making a list here. Here're my favorite trails in SB:
+1. Baron Ranch
+2. Matias Portrero
+3. San Ysidro
+
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
