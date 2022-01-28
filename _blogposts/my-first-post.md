@@ -1,5 +1,4 @@
 ---
-layout: post
 title: This is my first post
 author: "Albert"
 date: 1827-11-22
